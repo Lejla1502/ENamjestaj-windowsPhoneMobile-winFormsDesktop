@@ -1,0 +1,2 @@
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\eProdajaNamjestaja_Mobile1.csproj;neutral
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\eProdajaNamjestaja_PCL1.csproj;neutral
